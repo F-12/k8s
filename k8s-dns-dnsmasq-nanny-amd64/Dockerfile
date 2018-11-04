@@ -1,2 +1,2 @@
 FROM k8s.gcr.io/k8s-dns-dnsmasq-nanny-amd64:1.14.8
-MAINAINER axis.whistle.import@gmail.com
+MAINTAINER axis.whistle.import@gmail.com

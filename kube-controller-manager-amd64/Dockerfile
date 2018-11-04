@@ -1,2 +1,2 @@
 FROM k8s.gcr.io/kube-controller-manager-amd64:v1.10.0
-MAINAINER axis.whistle.import@gmail.com
+MAINTAINER axis.whistle.import@gmail.com
